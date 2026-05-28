@@ -1,0 +1,4 @@
+C:\Projects\Visual Studio\ConnectController\ConnectController\ConnectController\obj\Debug\net10.0\ConnectController.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Visual Studio\ConnectController\ConnectController\ConnectController\obj\Debug\net10.0\ConnectController.AssemblyInfoInputs.cache
+C:\Projects\Visual Studio\ConnectController\ConnectController\ConnectController\obj\Debug\net10.0\ConnectController.AssemblyInfo.cs
+C:\Projects\Visual Studio\ConnectController\ConnectController\ConnectController\obj\Debug\net10.0\ConnectController.csproj.CoreCompileInputs.cache
