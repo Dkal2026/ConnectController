@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConnectController")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+837cc47437682b8d803c1ae818b756d8500bf6fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConnectController")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConnectController")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -17,3 +17,4 @@ C:\Projects\Visual Studio\ConnectController\ConnectController\ConnectController\
 C:\Projects\Visual Studio\ConnectController\ConnectController\ConnectController\obj\Debug\net10.0-windows10.0.19041.0\ref\ConnectController.dll
 C:\Projects\Visual Studio\ConnectController\ConnectController\ConnectController\obj\Debug\net10.0-windows10.0.19041.0\AppWindow.resources
 C:\Projects\Visual Studio\ConnectController\ConnectController\ConnectController\obj\Debug\net10.0-windows10.0.19041.0\ConnectController.csproj.GenerateResource.cache
+C:\Projects\Visual Studio\ConnectController\ConnectController\ConnectController\obj\Debug\net10.0-windows10.0.19041.0\ConnectController.sourcelink.json
